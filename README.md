@@ -1,8 +1,8 @@
 # Project Title
 
-Add Picture 
+Add Picture
 
-Tag badges if available. 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7ecb7b21-b917-4418-8a27-c65b5b6db2cb/deploy-status)](https://app.netlify.com/sites/trusting-galileo-7be2e6/deploys)
 
 One Paragraph of project description goes here
 
@@ -70,7 +70,7 @@ Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details about  the process 
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
 ## Authors
 
