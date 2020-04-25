@@ -136,3 +136,4 @@ yarn-error.log
 n
 # Local Netlify folder
 .netlify
+.now
