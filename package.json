@@ -9,6 +9,6 @@
   },
   "dependencies": {
     "parcel": "^1.12.4",
-    "sass": "^1.26.3"
+    "sass": "^1.26.8"
   }
 }
